@@ -1,0 +1,10 @@
+{
+  "title": "HVAC AnoML",
+  "text": "A system to scalibily ingest HVAC IoT data and leverage Machine Learning to detect anomalies",
+  "button": [
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
